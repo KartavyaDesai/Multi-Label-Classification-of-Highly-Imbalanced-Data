@@ -18,7 +18,8 @@ This project aims to perform multi-label classification of movie genres based on
 - Scikit-learn
 
 ### Dataset
-The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/neha1703/movie-genre-from-its-poster).
+The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/neha1703/movie-genre-from-its-poster).                               
+[Augmented Dataset](https://kaggle.com/datasets/3c3e83186e0fccc3acf96663bc9b7af1cd0753daabe085f2d94c1f69eda84000).
 
 ### Model Architecture
 ![Model Architecture](https://github.com/KartavyaDesai/Multi-Label-Classification-of-Highly-Imbalanced-Data/assets/126103657/29087f7d-66fb-43a0-aad0-87dddd34102b)
